@@ -11,7 +11,8 @@ There are four major takeaways from this analysis.
 1. Pewlett Hackard has a huge number of senior employees eligible to retire. 
 
 **Chart: Unique Count of Employees by Job Title Eligible to Retire**
-![Unique Count of Job Titles Eligible to Retire](/Pewlett-Hackard-Analysis/Retiring_Unique_Titles.png)
+
+![Unique Count of Job Titles Eligible to Retire](/Retiring_Unique_Titles.png)
 
 There are over 50,000 employees eligible for retirement that have the word **Senior** in their job title. This should be a concern for the company because more senior employees have a lot of institutional knowledge about how the company works that more junior employees do not yet have. 
 
@@ -22,14 +23,16 @@ Based on the same graph above, roughly 40,000 employees who could retire soon ha
 3. There are a relatively low number of more experienced employees eligible to be mentors to a new generation of workers at PH. 
 
 **Result: The Number of Employees Eligible to be Mentors**
-![Mentors Results Count](/Pewlett-Hackard-Analysis/Mentors_Results_Count.png)
+
+![Mentors Results Count](/Mentors_Results_Count.png)
 
 PH used the criteria that any employee born in 1965 could be eligible to act as a mentor in the internal mentorship program that the company wants to develop to train younger talent. Based on this, only 1549 employees qualify to be mentors. 
 
 4. The overlap of job skills and job titles between eligible mentors and those retiring soon appears to be good, but more analysis is needed.
 
 **Sample List: A Preview of Employees Eligible to be Mentors**
-![Mentors Sample List](/Pewlett-Hackard-Analysis/Sample_Mentors.png)
+
+![Mentors Sample List](/Sample_Mentors.png)
 
 Based on a cursory review of the employees eligible to be mentors, they seem to share a similar set of work skills based on job title with the workers who are eligible to retire. This is a good initial sign because it means that those who could act as mentors can bridge the knowledge gap between the oldest employees who are retiring soon and the youngest employees in need of the most training. A further analysis should be done to compare the  number and ratio of the job titles of the possible mentors with those of the cohort who will retire soon.
 
@@ -39,13 +42,16 @@ Based on a cursory review of the employees eligible to be mentors, they seem to 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 **Result: The Number of PH Workers Retiring Soon**
-![Number of Workers Retiring](/Pewlett-Hackard-Analysis/Number_Retirees.png)
+
+![Number of Workers Retiring](/Number_Retirees.png)
 
 A count of the total number of employees eligible to retire, based on being born between 1952 and 1955, show that 72,458 employees will retire soon. This is obviously a huge number of workers that PH will need to plan to replace through new hiring. 
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-![Unique Count of Job Titles Eligible to Mentor](/Pewlett-Hackard-Analysis/Mentoring_Unique_Titles.png)
+**Chart: Unique Count of Employees by Job Title Eligible to be Mentors**
+
+![Unique Count of Job Titles Eligible to Mentor](/Mentoring_Unique_Titles.png)
 
 Only 1549 employees are eligible to mentor based on PH's current criteria for the mentorship program. This is under 3% of the retirement-eligible workforce considering over 70,000 empoloyees will be eligible to retire soon, so it seems that PH needs to find a way to increase in a big way the number of mentors and new hires to backfill workers in the upcoming retirement wave. 
 
